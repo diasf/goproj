@@ -1,7 +1,7 @@
 goproj
 ======
 
-Bash function to switch between Go projects.
+Simplistic bash function to switch between Go projects by autocompleted key.
 
 # Configuration
 
