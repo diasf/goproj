@@ -62,6 +62,6 @@ function _setGOPATH() {
             break
         fi
         cd ..
-	done
+    done
     cd $originalPath
 }
